@@ -5,7 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="lab08.css">
-    <title>Lab08</title>
+    <title>PHP Form</title>
     
 </head>
 
