@@ -1,0 +1,72 @@
+.problem {
+    width: 300px;
+    margin: 10vh auto 0 auto;
+    padding: 20px;
+    background-color: whitesmoke;
+    border-radius: 4px;
+    font-size: 12px;
+   
+}
+
+
+button {
+    padding: 10px;
+    margin-top: 10px;
+    width: 5em;
+    color: white;
+    background-color: rgb(60, 192, 161);
+    border: none;
+    border-radius: 4px;
+}
+
+body {
+    background: linear-gradient(to right, #9ddee3, #a9d8db, #bad5d6);
+    font-family: 'Poppins', sans-serif;
+}
+
+.form-input {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+
+::placeholder{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+
+input:invalid {
+    box-shadow: 2px solid red;
+  }
+
+  #lock {
+    color: green;
+  }
+
+  #unlock {
+    color: red;
+  }
+
+  input[type = text]{
+    width: 100%;
+    padding: 10px 15px;
+    margin: 5px 0;
+    box-sizing: border-box;
+}
+
+input[type = tel]{
+    width: 100%;
+    padding: 10px 15px;
+    margin: 5px 0;
+    box-sizing: border-box;
+}
+
+.main-left {
+    background: transparent;
+    font-size: 12px;
+    top: 0;
+    position: fixed;
+
+}  
+
+
+
+
+
