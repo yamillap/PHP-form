@@ -42,7 +42,7 @@
     
     <div class="problem">
         <div class="form">
-            <form id="form1" method="post" action="part2.php" target="_blank">
+            <form id="form1" method="post" action="part 2.php" target="_blank">
                 <h3>Problem 2</h3>
 
                 <div style="padding: 5px 10px; ">
